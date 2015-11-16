@@ -6,6 +6,7 @@
 
 ## Things
 
+* Restore ssh key
 * Get Chrome from [chrome.google.com](https://chrome.google.com)
 * Download latest dropbox installer from [dropbox.com](https://dropbox.com)
 
@@ -13,6 +14,7 @@
 # All sorts of stuff
 sudo apt-get install \
 	keepassx \
+	xclip \
 	inkscape \
 	git \
 	curl \
