@@ -1,0 +1,26 @@
+[user]
+  name = Espen Hovlandsdal
+  email = espen@hovlandsdal.com
+
+[github]
+  user = rexxars
+
+[push]
+  default = simple
+
+[color]
+  ui = true
+
+[core]
+  editor = subl
+  excludesfile = ~/.gitignore
+
+[format]
+  pretty = %Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset
+  graph = true
+
+[advice]
+  statusHints = false
+
+[log]
+  abbrevCommit = true
