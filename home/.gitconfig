@@ -12,7 +12,7 @@
   ui = true
 
 [core]
-  editor = subl
+  editor = nano
   excludesfile = ~/.gitignore
 
 [format]
